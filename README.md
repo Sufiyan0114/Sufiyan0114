@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-(https://instagram.com/sufiyxn01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikh-sufiyan01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sufiyan.shaikh0114@gmail.com) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikh-sufiyan01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sufiyan.shaikh0114@gmail.com) 
 
 
 ## 💻 Tech Stack:
